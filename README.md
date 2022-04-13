@@ -2,10 +2,10 @@
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/built%20with-Python3-green.svg" alt="built with Python3" /></a>
 </br>
 
-Description. 
+Description.
 The Kit_Hash is used to:
-	- compare_hashes: compare two hashes
-	- GenerateHash: Generate different hashes
+- <b><i>compare_hashes</i></b>: compare two hashes
+- <b><i>GenerateHash</i></b>: Generate different hashes
 ---
 ## Installation
 
